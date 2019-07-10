@@ -1,0 +1,27 @@
+### Builder
+target/
+build/
+out/
+gen/
+.gradle/
+local.properties
+
+### IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+### Package Files
+*.jar
+*.war
+*.ear
+
+### Other
+.DS_Store
+*.log
+*.bak
+
+.mvn
+.bin
